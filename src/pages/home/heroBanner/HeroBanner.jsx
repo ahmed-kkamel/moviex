@@ -17,6 +17,7 @@ const HeroBanner = () => {
 		setbackground(bg);
 	}, [data]);
 	console.log(background);
+
 	const searchHandler = (e) => {
 		if (e.key === "Enter" && query.length > 0) {
 			navigate(`search/${query}`);
