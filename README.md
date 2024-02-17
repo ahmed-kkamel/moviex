@@ -4,13 +4,19 @@ Welcome to Movix! Movix is a user-friendly React project that allows users to br
 
 ## Features
 
-Browse Movies: Explore a vast collection of movies through various categories such as top-rated, popular, and trending.
-Search Functionality: Search for specific movies or TV shows by title, genre, or keywords.
-Filtering: Filter movies based on different criteria such as genre, release year, or rating.
-Lazy Loading: Optimize performance with lazy loading, ensuring faster initial load times.
-Infinite Scroll: Seamlessly load more content as users scroll through the movie catalog.
-Similar Movies Suggestions: Receive recommendations for similar movies based on user preferences.
-Trailers and Videos: Watch trailers and additional videos for selected movies or TV shows.
+1- Browse Movies: Explore a vast collection of movies through various categories such as top-rated, popular, and trending.
+
+2- Search Functionality: Search for specific movies or TV shows by title, genre, or keywords.
+
+3- Filtering: Filter movies based on different criteria such as genre, release year, or rating.
+
+4- Lazy Loading: Optimize performance with lazy loading, ensuring faster initial load times.
+
+5- Infinite Scroll: Seamlessly load more content as users scroll through the movie catalog.
+
+6- Similar Movies Suggestions: Receive recommendations for similar movies based on user preferences.
+
+7- Trailers and Videos: Watch trailers and additional videos for selected movies or TV shows.
 
 ## Technologies Used
 
